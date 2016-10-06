@@ -29,7 +29,7 @@ p.food {
   font-size: 20px;
   font-style: italic;
   color: #D8DCE6;
-  margin-top: -70px;
+  margin-top: 0;
 }
 ul {
   font-family: avenir next;
